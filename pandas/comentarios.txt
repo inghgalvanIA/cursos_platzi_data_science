@@ -1,0 +1,16 @@
+importat la libreria numpy
+
+import numpy as np
+
+creacion un array con numpy
+
+np.array([1,2,3,4,5])
+
+multiplicar un array por un numero
+
+np.array([1,2,3,4,5])*10
+
+crear de una matriz por medio de dos array
+
+np.array([[1,2,3,4],[5,6,7,8]])
+

@@ -1,0 +1,24 @@
+¿Que es pandas?
+
+la libreria mas utilizada por todos los cientificos de datos
+
+PANel
+
+de 
+
+DAtos
+
+ventajas
+
+-reduce lineas de codigo
+-diseñada especialmente para anàlisis
+-API facil y concisa
+-multiples funciones
+-conpatibilidad con matrices 3D(numpy)
+-curva de aprendizaje lenta
+
+en el cursos e utilizara 
+
+https://colab.research.google.com/drive/1GS77pa9XDugsPlqfLsLm1ub9cXjPHd9v#scrollTo=2E1yb-A-DaHn
+
+para dar enter en el collab se utilzia enter + shift
